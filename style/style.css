@@ -1,0 +1,56 @@
+/* * {
+    padding-top: 10px;
+    padding-bottom: 10px;
+} */
+
+
+html, body { 
+    overflow-x: hidden; 
+}
+
+.row .col {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.jumbotron {
+    background: url(img/photo-of-stars-974470.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    max-width: 100%;
+    margin-bottom: 0;
+    /* border-bottom: solid 2px black; */
+}
+
+#r1 {
+    padding: 0px;
+    margin: 0px;
+}
+
+#r2 {
+    padding-top: -15px;
+    margin-top: -15px;
+}
+
+#kitography {
+    color: white;
+}
+
+#subtext {
+    color: white;
+}
+
+#kito-img {
+    height: auto;
+    max-width: 100%;
+}
+
+.col {
+    /* border: solid 1px black; */
+    justify-content: center;
+    text-align: center;
+
+}
