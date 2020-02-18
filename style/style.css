@@ -15,7 +15,7 @@ html, body {
 
 
 .jumbotron {
-    background: url(img/photo-of-stars-974470.jpg);
+    background: url(../style/img/photo-of-stars-974470.jpg);
     text-align: center;
     background-repeat: no-repeat;
     background-position: center;
@@ -47,6 +47,25 @@ html, body {
     height: auto;
     max-width: 100%;
 }
+
+#
+
+#content1 {
+    padding: 25px;
+}
+
+#content2 {
+    padding: 25px;
+}
+
+#content3 {
+    padding: 25px;
+}
+
+#content4 {
+    padding: 25px; 
+}
+
 
 .col {
     /* border: solid 1px black; */
