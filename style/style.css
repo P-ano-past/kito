@@ -28,23 +28,29 @@ html, body {
 .carousel {
     margin-bottom: 4rem;
     position: relative; 
+    width: 100%;
 }
 
 .carousel-inner {
-    background-color: rgb(97, 82, 82);
+    background-color: #615252;
+    width: 100%;
 }
 
 .carousel-item {
     height: 50rem;
-  }    
+}    
 
-  .carousel-item > img {
-        position: absolute;
-        top: 0;
-        left: 0;    
-        height: 32rem;
-        object-fit: contain;    
-      }
+.carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;    
+    height: 32rem;
+    object-fit: contain;    
+}
+
+.carousel-control-next-icon {
+    color: #000;
+}
 
 #r1 {
     padding: 0px;
